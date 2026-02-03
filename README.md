@@ -20,12 +20,6 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
 <img width="1902" height="901" alt="image" src="https://github.com/user-attachments/assets/70a6332c-e645-4b8a-95b1-b892b031a44e" />
 
 ---
-
-## Live Preview
-
-Check out the live preview of the portfolio website here:  
-[**Live Demo**]([https://codervai.vercel.app/](https://mdshahidahamed.netlify.app/))
----
 ### 🎯 Project Structure
 ```bash
 portfolio/
