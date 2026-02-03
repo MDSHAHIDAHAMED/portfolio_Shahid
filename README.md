@@ -24,7 +24,7 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
 ## Live Preview
 
 Check out the live preview of the portfolio website here:  
-[**Live Demo**](https://codervai.vercel.app/)
+[**Live Demo**]([https://codervai.vercel.app/](https://mdshahidahamed.netlify.app/))
 ---
 ### 🎯 Project Structure
 ```bash
@@ -128,21 +128,6 @@ The portfolio website consists of the following sections:
 You will need to download **Git** and **Node** to run this project.
 
 ### Git
-
-- Download and install Git from the official website: [Git Downloads](https://git-scm.com/)
-- Verify the installation:
-  ```bash
-  git --version
-  ```
-
-### Node
-
-- Download and install Node.js from the official website: [Node.js Downloads](https://nodejs.org/)
-- Make sure you have the latest version of both Git and Node on your computer.
-- Verify the installation:
-  ```bash
-  node --version
-  ```
 
 # Getting Started 🎯
 
